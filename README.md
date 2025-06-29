@@ -1,7 +1,7 @@
 # katomaran-todo-app
 This project is a part of a hackathon run by https://www.katomaran.com 
 
-**code base is in master branch ,refer master branch for project file**
+**code base is in MASTER BRANCH ,refer master branch for project file**
 
 #explanation video : https://drive.google.com/file/d/1dHKeQSyn1EC1zrJtWAJMztRgLr9M00Kv/view?usp=sharing
 
@@ -14,6 +14,7 @@ supports both android and ios
 - Add tasks
 - Mark complete
 - Star important tasks
+
 architecture :
 - ![image](https://github.com/user-attachments/assets/f0f216de-e7f3-4021-b5fd-c9116b471772)
 
