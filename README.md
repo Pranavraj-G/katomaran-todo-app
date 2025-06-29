@@ -1,5 +1,6 @@
 # katomaran-todo-app
-This project is a part of a hackathon run by https://www.katomaran.com , **code base is in master branch ,refer master branch for project file**
+This project is a part of a hackathon run by https://www.katomaran.com , 
+**code base is in master branch ,refer master branch for project file**
 
 use in mobile to experience date picking features
 # Todo App 
