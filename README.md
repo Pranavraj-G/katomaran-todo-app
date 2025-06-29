@@ -16,7 +16,8 @@ architecture :
 
   the design pattern followed:Modular + Context-Driven Architecture
 to experience it in mobile app either run the program or scan the qr code in expo go(android) or camera app(ios)
-![image](https://github.com/user-attachments/assets/e5a7c70d-b932-42da-b3f6-d1507ff74ae4)
+
+![image](https://github.com/user-attachments/assets/7b7b756f-96aa-4f2f-9345-c2bb1f9015d7)
 
 
 
