@@ -1,6 +1,6 @@
 # katomaran-todo-app
-This project is a part of a hackathon run by https://www.katomaran.com , 
-**use in mobile to experience date picking features**
+This project is a part of a hackathon run by https://www.katomaran.com , **code base is in master branch**
+use in mobile to experience date picking features
 # Todo App 
 This app helps you manage your daily tasks.
 supports both android and ios
